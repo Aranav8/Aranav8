@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm a passionate and skilled Mobile and Full-Stack Developer with a strong foundation in creating cross-platform applications using Flutter, React Native, and Node.js. My focus is on building performant, scalable, and user-centric solutions by integrating secure APIs and optimizing UI/UX.</p>
+<p align="left">Final year CS student and Mobile App Developer specializing in Flutter and React Native, with 2 years of experience building full-stack, cross-platform applications. Proven ability to design clean UIs, integrate secure backends (Node.js, MongoDB, JWT), and follow scalable architecture patterns for real-world deployment.</p>
 
 ###
 
